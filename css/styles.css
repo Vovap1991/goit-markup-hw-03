@@ -327,10 +327,6 @@ img {
   height: auto;
 }
 
-.filter {
-  padding-top: 96px;
-}
-
 .main-menu {
   display: flex;
   justify-content: center;
